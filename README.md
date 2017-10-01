@@ -1,0 +1,1 @@
+It is demonstrated that, divergence of electric field can vary due to relativistic transformation. Two approaches are presented with consistent outcomes. And it indicates that divergence of electric field may not be exclusively associated with electric charges, thus violates the Gauss law of Maxwell equations.
